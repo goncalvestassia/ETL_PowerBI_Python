@@ -71,5 +71,12 @@ df['Cor'] = df['Cor'].replace([0, 2, 4, 6, 8, 9],['Indígena', 'Branca', 'Preta'
 
 print(df)
 
-# Print do código inserido no Script Python
+2) Print do código inserido no Script Python
 ![Script1](https://user-images.githubusercontent.com/121309155/221641723-9f5945c6-15f7-407d-8d6f-c7d14811235b.jpg)
+
+3) Print da etapa de transformar dados do Power BI
+![Transformar-dados](https://user-images.githubusercontent.com/121309155/221643173-df75b464-430d-4219-bdc5-e12d67e4ebc1.jpg)
+
+4) Print do Dashboard realizado
+![Dashboard](https://user-images.githubusercontent.com/121309155/221643710-4287d53c-5916-4193-8c7f-de915b55c7c0.jpg)
+
